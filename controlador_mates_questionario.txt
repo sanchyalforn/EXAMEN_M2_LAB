@@ -1,0 +1,61 @@
+9.999845322
+
+2.004363
+
+-364
+
+24
+
+18 = 324
+28 = 784
+
+pregunta 1
+CRECE  direccion arriba
+original  (-3,0)   = -29
+copia     [16,2]   = -435
+
+ESTABLE   direccion abajo
+original  (0,4)    = 24
+copia  	  [-14,-2] = -352
+
+
+ESTABLE   direccion abajo
+original  (2,-2)   =  -7
+copia	  [2,8]    = 41
+
+ESTABLE   direccion abajo
+original  (-6,-1)  = 41
+copia  	  [-8,-20] = -785
+
+ESTABLE	  direccion arriba
+origianl (-3,-2)  =  -6
+copia    [4,6]   =   19
+
+ESTABLE     direccion abajo
+original (6,-6)    = -167
+copia    [-18,-28] = -1527
+
+DECRE    direccion abajo
+original (-3,-3) = -20
+copia    [6,-10]  =-31
+
+ESTABLE direccion abajo
+original  (-4,-5)  = 26
+copia     (-6,-12) = -37
+
+
+original  (-6,1)  = -52
+copia     [20.-2]  =  -109
+
+ARIBA
+original  (1,2)    =  -9 
+copia     [-10,12] = -197
+
+pregunta2
+
+- hay 3 que empiezan igual, y una muy diferente 
+se cogen dos, las dos casi iguales 
+- hay 2 que empiezan igual, y dos diferentes
+se cogen dos, las dos casi iguales 
+
+

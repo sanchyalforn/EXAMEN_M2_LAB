@@ -1,0 +1,38 @@
+f(50579/6334,45087/6334)
+f(x,y)  = 543,43   MAXIM ABSOLUT
+f(x,y)' = 137,79
+
+
+f(11/2,-5)
+f(x,y)  = 224.25   MAXIM ABSOLUT
+f(x,y)' = 21
+
+f((1/6,11/6)
+f(x,y)  = 6,36      NO ES UN EXTREM ABSOLUT
+f(x,y)' =0
+
+f(-(5*raiz(2))/4-1,-(5*raiz(2))/4+2)
+f(x,y) = 2,46       NO ES UN EXTREM ABSOLUT
+f(x,y)' = -39,32
+
+
+f(11/10,-7/5)
+f(x,y)  = -7,35     MINIM ABSOLUT
+f(x,y)' = 0 
+
+f(1/10,-9/40)
+f(x,y) = 2,43       NO ES UN EXTREM ABSOLUT
+f(x,y)' = O
+
+f(-179/130,157/130)
+f(x,y)  = -35,55
+f(x,y)' = 12,67     NO ES UN EXTREM ABSOLUT
+
+f(-7,-7)
+f(x,y) = -279       MINIM ABSOLUT
+f(x,y)' = 72
+
+
+f(-7,6)
+f(x,y) = 359	    MAXIM ABSOLUT
+f(x,y)' = -73
